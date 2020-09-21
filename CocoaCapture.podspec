@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/alterecho/CocoaCapture.git", :commit => "b60ff6293ec8803550f26fe45e0e7a3420bf112d", :tag => spec.version }
+  spec.source       = { :git => "https://github.com/alterecho/CocoaCapture.git", :commit => "b60ff6293ec8803550f26fe45e0e7a3420bf112d", :tag => "v1.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
